@@ -1,7 +1,5 @@
 Rol apache-webpage
 ==================
-
-Jose
 Instala Apache en Centos 7 y desplega una web estática
 
 Example Playbook
